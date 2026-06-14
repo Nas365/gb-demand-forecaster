@@ -7,7 +7,7 @@ national demand responds.
 
 **Live app:** https://gb-demand-forecaster-eceik67aicsv5qepuepnau.streamlit.app/
 
-Built by Nasir.
+Built by Nasir Abubakar.
 
 ---
 
@@ -90,7 +90,7 @@ streamlit run app.py
 
 - Demand data: NESO, under the Open Government Licence v3.0.
 - Weather data: Open-Meteo.
-- Built by Nasir as an independent portfolio project.
+- Built by Nasir Abubakar as an independent portfolio project.
 
 This project is not affiliated with, or endorsed by, NESO. The forecasts are
 illustrative and are not official NESO demand forecasts.

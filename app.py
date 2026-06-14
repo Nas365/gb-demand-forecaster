@@ -4,7 +4,7 @@ A 24-hour-ahead national demand forecasting app powered by an LSTM trained
 on NESO open data. Fetches the most recent data live, with a bundled
 fallback window if the live sources are unavailable.
 
-Built by Nasir.
+Built by Nasir Abubakar.
 """
 
 import numpy as np
@@ -78,7 +78,7 @@ st.markdown(
     "Use the controls to explore how temperature, day type and wind generation "
     "shift demand."
     "<br><br>"
-    "<b>Built by Nasir.</b> An independent portfolio project. Not affiliated with "
+    "<b>Built by Nasir Abubakar.</b> An independent portfolio project. Not affiliated with "
     "or endorsed by NESO. Forecasts are illustrative and are not official NESO "
     "demand forecasts."
     "</div>",
@@ -193,6 +193,6 @@ held-out, most-recent test set.
 **Important.** Independent portfolio project. Not affiliated with or endorsed by
 NESO; forecasts are illustrative, not official.
 
-Built by Nasir.
+Built by Nasir Abubakar.
         """
     )
