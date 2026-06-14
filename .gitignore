@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data — keep model artefacts, ignore large raw downloads
+demanddata_*.csv
+gb_demand_features.parquet
+
+# Internal project briefing — not part of the public repo
+PROJECT_CONTEXT.md
