@@ -5,7 +5,7 @@ demand 24 hours ahead using a multivariate LSTM neural network trained on NESO
 open data. Adjust temperature, day type, and wind generation to explore how
 national demand responds.
 
-**Live app:** _add your Streamlit Community Cloud link here once deployed_
+**Live app:** https://gb-demand-forecaster-eceik67aicsv5qepuepnau.streamlit.app/
 
 Built by Nasir.
 
